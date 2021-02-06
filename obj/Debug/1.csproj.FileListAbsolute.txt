@@ -1,0 +1,94 @@
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\bin\Debug\1.exe.config
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\bin\Debug\1.exe
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\bin\Debug\1.pdb
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form1.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Properties.Resources.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\1.csproj.GenerateResource.Cache
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\1.exe
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\1.pdb
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form2.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form3.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form4.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form5.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form6.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form7.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.start.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.admin_page.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form8.resources
+c:\users\hp-pc\documents\visual studio 2012\Projects\1\1\obj\Debug\_1.Form9.resources
+F:\my\books2\InformationSystem\projects\1\1\bin\Debug\1.exe.config
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\1.exe
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\1.pdb
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+F:\my\books2\InformationSystem\projects\1\1\bin\Debug\1.exe
+F:\my\books2\InformationSystem\projects\1\1\bin\Debug\1.pdb
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.admin_page.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.first_page.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.admin_login.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Donor.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Form4.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Form6.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Form7.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Form8.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Form9.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.Properties.Resources.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.start.resources
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\1.csproj.GenerateResource.Cache
+F:\my\books2\InformationSystem\projects\1\1\obj\Debug\_1.doonoor.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\bin\Debug\1.exe.config
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\1.exe
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\1.pdb
+F:\my\books2\InformationSystem\projects\1 - Copy\1\bin\Debug\1.exe
+F:\my\books2\InformationSystem\projects\1 - Copy\1\bin\Debug\1.pdb
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.first_page.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.admin_login.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Donor.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.doonoor.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Properties.Resources.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\1.csproj.GenerateResource.Cache
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Login.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.register.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.ADD.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.delete.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.donate.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Blood.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Admin_Fn.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.DisData.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Removes.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Res_login.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Dispaly.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Blood_ADD.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Reci.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Blood_Data_show.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Requests.resources
+F:\my\books2\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Edit.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\bin\Debug\1.exe.config
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\1.exe
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\1.pdb
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\bin\Debug\1.exe
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\bin\Debug\1.pdb
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.delete.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Requests.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.first_page.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Edit.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Login.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Admin_Fn.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.ADD.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.DisData.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Removes.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Blood_ADD.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.admin_login.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Donor.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Res_login.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.doonoor.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Reci.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.donate.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Blood_Data_show.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.register.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Dispaly.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Properties.Resources.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\_1.Blood.resources
+F:\my\books2\2nd Degree\1st Term\InformationSystem\projects\1 - Copy\1\obj\Debug\1.csproj.GenerateResource.Cache
